@@ -1,0 +1,12 @@
+{
+  "name": "node_animal_facts",
+  "version": "1.0.0",
+  "description": "node lab part 1",
+  "main": "facts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "\"elle\"",
+  "license": "ISC"
+}
